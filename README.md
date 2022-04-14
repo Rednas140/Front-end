@@ -1,5 +1,5 @@
 # Front-end
-Repository fot the front-end buildingblock.
+Repository for the front-end buildingblock.
 
 ## the Page
 the webpage is a simple front end page, made for a small family which wanted to make their advertising for the renting of their caravan more internet friendly
